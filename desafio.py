@@ -31,3 +31,4 @@ if palpite != numero_secreto:
     print(f"Você não acertou. O número correto era {numero_secreto}.")
 
 #alterando e testando
+#teste
