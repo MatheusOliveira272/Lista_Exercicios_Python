@@ -29,6 +29,3 @@ for tentativa in range(1, 6):
 # Exibir o número correto se o jogador não adivinhou
 if palpite != numero_secreto:
     print(f"Você não acertou. O número correto era {numero_secreto}.")
-
-#alterando e testando
-#teste
